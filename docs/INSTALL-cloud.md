@@ -16,6 +16,9 @@
 
 Create your new Droplet. You will receive an email with the root password. (However, if you know [how to use SSH keys](https://www.google.com/search?q=digitalocean+ssh+keys), you may not need a password to log in.)
 
+*Azure users need to open the http(80) and https(443) endpoints.
+<img src="https://s11.postimg.org/nmuapnxbn/Azure.png" width="600px">
+
 ### Access Your Cloud Server
 
 Connect to your server via its IP address using SSH, or [Putty][put] on Windows:
